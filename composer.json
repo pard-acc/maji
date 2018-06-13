@@ -1,14 +1,11 @@
 {
-    "name": "pard-acc/lib",
-    "description": "測試用",
-    "type": "library",
-    "license": "mit",
-    "minimum-stability": "dev",
-    "require": {},
-    "autoload": {
-    "psr-4": {
-      "Flower\\Rose\\": "src/Flower/Rose",
-      "Flower\\Lily\\": "src/Flower/Lily"
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/pard-acc/maji.git"
+        }
+    ],
+    "config": {
+        "secure-http": false
     }
-  }
 }
