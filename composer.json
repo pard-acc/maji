@@ -2,7 +2,7 @@
   "name": "lingan/try-make-package",
   "description": "try make a package",
   "type": "library",
-  "license": "MIT",,
+  "license": "MIT",
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.0"
