@@ -1,14 +1,14 @@
 {
-    "name": "pard-acc/maji",
-    "description": "test",
-    "type": "package",
-    "license": "mit",
-    "homepage": "https://github.com/pard-acc/maji.git",
-    "minimum-stability": "dev",
-    "require": {},
-    "autoload": {
+  "name": "lingan/try-make-package",
+  "description": "try make a package",
+  "type": "library",
+  "license": "MIT",,
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.0"
+  },
+  "autoload": {
     "psr-4": {
-      "Flower\\Rose\\": "src/Flower/Rose",
       "Flower\\Lily\\": "src/Flower/Lily"
     }
   }

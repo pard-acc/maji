@@ -1,16 +1,17 @@
-/*
-Created by PhpStorm.
+<?php
+/**
+ * Created by PhpStorm.
  * User: Lingan
  * Date: 2017/11/6
- * Time: 21:39
+ * Time: 21:38
  */
 
-namespace Flower\Rose;
+namespace Flower\Lily;
 
-class Rose
+class Lily
 {
     public function desc()
     {
-        echo "this is rose flower";
+        echo "this is lily flower";
     }
 }
