@@ -1,6 +1,6 @@
 {
-  "name": "lingan/try-make-package",
-  "description": "try make a package",
+  "name": "pd/package",
+  "description": "pdtest",
   "type": "library",
   "license": "MIT",
   "minimum-stability": "dev",
